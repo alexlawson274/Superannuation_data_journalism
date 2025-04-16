@@ -5,9 +5,12 @@ This repo contains the files and R scripts for an article on Australia's Superan
 Australia's super industry has grown to the second-largest pension asset in the world. The article uses data from the OECD and World Bank to argue that Aus Super system is one of the most successful pension schemes in the world.
 
 ##  Source Data 
-The research for the article is based on a report by the AFSA Super and the Australian Economy Report. Available here: https://www.superannuation.asn.au/wp-content/uploads/2025/02/ASFA-research-paper-Super-and-the-economy.pdf
+The research for the article is based on a report by the AFSA Super and the Australian Economy Report, available here: https://www.superannuation.asn.au/wp-content/uploads/2025/02/ASFA-research-paper-Super-and-the-economy.pdf
+
+
 The source data used comes from OECD Pensions at a glance report, available here: https://www.oecd.org/en/publications/2023/12/pensions-at-a-glance-2023_4757bf20.html
-And the World Bank National Accounts data for gross savings as a % of GDP, available here: https://data.worldbank.org/indicator/NY.GNS.ICTR.ZS
+Data for gross savings (% of GDP) comes from the  World Bank National Accounts data, available here: https://data.worldbank.org/indicator/NY.GNS.ICTR.ZS
 
 ##  Output
 The calculations were used as part of a data journalism project. You can see the full project here: https://docs.google.com/document/d/1AO4T6VqEifybY3YABbjx0aBfWs1ER_A9fp6P_Qocgb4/edit?usp=sharing
+![Kx4RN-super-savers-since-superannuation-became-law-b-style-color-18a1cd-nbsp-australia-b-nbsp-has-been-saving-more-than-the-oecd-average-](https://github.com/user-attachments/assets/910ec68b-6635-4e20-aafc-0b1f0e094202)
