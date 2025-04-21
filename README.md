@@ -14,8 +14,9 @@ Data for gross savings (% of GDP) comes from the  World Bank National Accounts d
 ## Dependencies
 Before running the scripts,the following R packages need to be installed:
 
-tidyverse
-ggplot2
+- `tidyverse`
+- `ggplot2`
+- `dplyr`
 
 ##  Output
 The calculations were used as part of a data journalism project. To learn more about the project, contact alexlawson274@gmail.com
