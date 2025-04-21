@@ -12,6 +12,6 @@ The source data used comes from OECD Pensions at a glance report, available here
 Data for gross savings (% of GDP) comes from the  World Bank National Accounts data, available here: https://data.worldbank.org/indicator/NY.GNS.ICTR.ZS
 
 ##  Output
-The calculations were used as part of a data journalism project. You can see the full project here: https://docs.google.com/document/d/1AO4T6VqEifybY3YABbjx0aBfWs1ER_A9fp6P_Qocgb4/edit?usp=sharing
+The calculations were used as part of a data journalism project. To learn more about the project, contact alexlawson274@gmail.com
 
 ![Kx4RN-super-savers-since-superannuation-became-law-b-style-color-18a1cd-nbsp-australia-b-nbsp-has-been-saving-more-than-the-oecd-average-](https://github.com/user-attachments/assets/910ec68b-6635-4e20-aafc-0b1f0e094202)
