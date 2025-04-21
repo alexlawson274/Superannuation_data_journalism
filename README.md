@@ -11,6 +11,12 @@ The source data used comes from OECD Pensions at a glance report, available here
 
 Data for gross savings (% of GDP) comes from the  World Bank National Accounts data, available here: https://data.worldbank.org/indicator/NY.GNS.ICTR.ZS
 
+## Dependencies
+Before running the scripts,the following R packages need to be installed:
+
+tidyverse
+ggplot2
+
 ##  Output
 The calculations were used as part of a data journalism project. To learn more about the project, contact alexlawson274@gmail.com
 
